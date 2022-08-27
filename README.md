@@ -1,5 +1,6 @@
 # Asistencia UC
 Idea: Pasar la asistencia -casi- automáticamente!
+
 ----------------------------------------------------------------------------------------------
 ## 🟢 Pros
 
@@ -18,5 +19,4 @@ Idea: Pasar la asistencia -casi- automáticamente!
 ### Programming
 
 ----------------------------------------------------------------------------------------------
-
 ## 🔵 Possible Features
