@@ -17,6 +17,3 @@ Pasar la asistencia -casi- automáticamente!
 - Especial cuidado a la protección de datos
 
 ### Programming
-
-----------------------------------------------------------------------------------------------
-## 🔵 Possible Features
