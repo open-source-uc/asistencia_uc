@@ -1,5 +1,5 @@
 # Asistencia UC
-Idea: Pasar la asistencia -casi- automáticamente!
+Pasar la asistencia -casi- automáticamente!
 
 ----------------------------------------------------------------------------------------------
 ## 🟢 Pros
